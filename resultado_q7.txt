@@ -1,0 +1,1 @@
+O resultado da multiplicação de 5.0 e 5 é: 25.0
