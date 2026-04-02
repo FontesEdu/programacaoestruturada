@@ -1,0 +1,1 @@
+O resultado da área do círculo com raio 2.0 é: 12.56636

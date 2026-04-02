@@ -1,0 +1,4 @@
+False e True é: False 
+False ou True é: True 
+A negação de False é: True 
+A negação de True é: False

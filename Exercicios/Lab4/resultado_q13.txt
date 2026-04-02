@@ -1,0 +1,2 @@
+O valor do primeiro número digitado é: 8 
+O valor do segundo número digitado é: 9
