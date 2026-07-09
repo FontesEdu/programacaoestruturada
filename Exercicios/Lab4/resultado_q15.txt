@@ -1,1 +1,0 @@
-A data 9/8/2000 em segundos desde o primeiro de janeiro de 1970 é: 965779200000.0 milisegundos.

@@ -1,1 +1,0 @@
-O resultado da multiplicação de 3000.0 e 11 é: 33000.0
